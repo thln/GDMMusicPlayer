@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/0d1b4f0e-e49c-4dcc-8e0a-b7bc4a20bef9
 
 Accessibility Labels are included as well
 
-# What I Implement Next
+# What I Would Implement Next
 * Tap to Show Time When Song Ends
 * Hook this to AVPlayer
 * Timeline Magnifying While Dragging
